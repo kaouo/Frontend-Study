@@ -7,8 +7,8 @@
 | <img src="https://avatars.githubusercontent.com/u/144293040?v=4" alt="이미지" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/132319467?v=4" alt="이미지" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/164005659?v=4" alt="이미지" width="100" height="100"> |
 
 ## 규칙
-- 1주차는 [대학 11기] 프론트엔드 온보딩 트랙을 공부합니다.
-- 2주차는 프론트엔드(React) 온보딩 트랙을 공부합니다.
+- 1주차는 **[대학 11기] 프론트엔드 온보딩 트랙**을 공부합니다.
+- 2주차는 **프론트엔드(React) 온보딩 트랙**을 공부합니다.
 - 그리고, 공부한 범위 내에서 주당 문제 3개 만들어서 같이 제출합니다.(질문, 답 포함) -> 총 2개의 파일(학습 내용 1, 질문 1) 제출
 - 학습한 챕터는 MarkDown 으로 정리해서 깃허브 각자의 branch 에 파일을 올립니다.
 - 공부 후 정리한 MD 파일의 PR을 생성한후 Main에 병합합니다.
@@ -16,8 +16,8 @@
 
 
 ## 파일명
-~~마크다운 파일은 [O주차-0장]OOO.md (OOO은 이름)~~
-1주차, 2주차 마크다운 파일은 OOO.md (OOO은 이름)
+- ~~마크다운 파일은 [O주차-0장]OOO.md (OOO은 이름)~~
+- 1주차, 2주차 마크다운 파일은 OOO.md (OOO은 이름)
 
 ## 불참
 - 예치금 -3000(추후 배분), **릴스 촬영**
