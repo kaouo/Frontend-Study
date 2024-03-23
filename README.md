@@ -6,6 +6,10 @@
 |----|----|----|
 | <img src="https://avatars.githubusercontent.com/u/144293040?v=4" alt="이미지" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/132319467?v=4" alt="이미지" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/164005659?v=4" alt="이미지" width="100" height="100"> |
 
+## 스케줄표(스프레드시트)
+- [스케줄표](https://docs.google.com/spreadsheets/d/1XuaLa4wmp7Enq5g93WkmWvLEb5FaILLZ05e7wOrMrSs/edit#gid=0)
+- 개별로 학습한 세션에 (완료한 날짜 + 학습 시간, 이해도)를 표시합니다.
+
 ## 규칙
 - 1주차는 **[대학 11기] 프론트엔드 온보딩 트랙**을 공부합니다.
 - 2주차는 **프론트엔드(React) 온보딩 트랙**을 공부합니다.
