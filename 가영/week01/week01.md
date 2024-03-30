@@ -42,7 +42,7 @@ $ git push -u origin main
 
  www.깃허브아이디.github.io를 주소창에 입력하게 되면 업로드한 index.html 파일의 페이지가 뜸
 
----
+
 
 ### box-sizing : content-box와 border-box의 차이점
 
@@ -59,6 +59,8 @@ border-box를 universal selector로 전체 적용해서 작업하기
 → universal selector : * (asterisk)
 
 padding과 테두리에 의해서 사이즈가 왜곡되는 일을 방지
+
+
 
 ### CSS 용어
 
